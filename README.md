@@ -34,7 +34,7 @@ Focado em construir aplicações eficientes, escaláveis e orientadas a dados. A
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/gidelmarjr-art" target="_blank">
+  <a href="[https://linkedin.com/in/gidelmarjr-art](https://www.linkedin.com/in/gidelmar-junior/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
