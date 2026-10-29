@@ -24,9 +24,9 @@ Focado em construir aplicações eficientes, escaláveis e orientadas a dados. A
 
 ## 💼 Projetos
 
-- **[Conecta+](https://github.com/gidelmarjr-art/conecta-plus)**: Plataforma digital para centralizar conexões entre voluntários, doadores e ONGs, desenvolvida com React e Node.js.
-- **[Estudos de Estruturas de Dados](https://github.com/gidelmarjr-art/data-structures)**: Implementações e análises técnicas focadas em pilhas, filas e eficiência algorítmica.
-- **[Projetos Full Stack & APIs](https://github.com/gidelmarjr-art)**: Coleção de aplicações web escaláveis integrando front-end moderno com back-end robusto.
+- **[Financeyday](https://financeday.vercel.app/)**: Painel de câmbio global em tempo real com leitura analítica por IA, desenvolvida com React e Node.js.
+- **[Yummy](https://yummy-one-phi.vercel.app/)**: Plataforma completa de gestão e operação para restaurantes, desenvolvida com React, Node.js, Python e PostreSQL
+- **[Minhas Financias](https://minhas-financias-navy.vercel.app/)**: Um sistema web completo e moderno de gestão financeira pessoal, projetado para o controle detalhado de despesas. Desenvolvida com React, Node.js, JavaScript e PostreSQL
 
 ---
 
