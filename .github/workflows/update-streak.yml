@@ -1,0 +1,25 @@
+name: Update Streak Stat Image
+
+on:
+  schedule:
+    # Roda a cada 1 hora (ou ajuste a frequência)
+    - cron: '0 * * * *'
+  workflow_dispatch: # Permite rodar manualmente se quiser
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download updated streak card
+        run: |
+          curl -s "https://streak-stats.demolab.com?user=gidelmarjr-art&theme=tokyonight&hide_border=true&background=0D1117&timezone=America/Sao_Paulo" -o streak.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update streak stats" && git push)
