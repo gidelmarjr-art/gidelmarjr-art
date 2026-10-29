@@ -24,9 +24,9 @@ Focado em construir aplicações eficientes, escaláveis e orientadas a dados. A
 
 ## 💼 Projetos
 
-- **[Conecta+](https://github.com/seu-usuario/conecta-plus)**: Plataforma digital para centralizar conexões entre voluntários, doadores e ONGs, desenvolvida com React e Node.js.
-- **[Estudos de Estruturas de Dados](https://github.com/seu-usuario/data-structures)**: Implementações e análises técnicas focadas em pilhas, filas e eficiência algorítmica.
-- **[Projetos Full Stack & APIs](https://github.com/seu-usuario)**: Coleção de aplicações web escaláveis integrando front-end moderno com back-end robusto.
+- **[Conecta+](https://github.com/gidelmarjr-art/conecta-plus)**: Plataforma digital para centralizar conexões entre voluntários, doadores e ONGs, desenvolvida com React e Node.js.
+- **[Estudos de Estruturas de Dados](https://github.com/gidelmarjr-art/data-structures)**: Implementações e análises técnicas focadas em pilhas, filas e eficiência algorítmica.
+- **[Projetos Full Stack & APIs](https://github.com/gidelmarjr-art)**: Coleção de aplicações web escaláveis integrando front-end moderno com back-end robusto.
 
 ---
 
@@ -34,15 +34,17 @@ Focado em construir aplicações eficientes, escaláveis e orientadas a dados. A
 
 <div align="center">
 
-<a href="https://linkedin.com/in/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:seu-email@example.com">
-  <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/gidelmarjr-art" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:seu-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gidelmarjr-art" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" />
+  </a>
 
 </div>
 
@@ -54,39 +56,44 @@ Focado em construir aplicações eficientes, escaláveis e orientadas a dados. A
 *Linguagens, frameworks e bibliotecas de interface*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite" />
 </div>
+
+<br>
 
 ### 02. Back-End
 *Ambientes de execução, frameworks e arquitetura de APIs*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" />
 </div>
+
+<br>
 
 ### 03. Banco de Dados
 *SGBDs e ORMs*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase" />
 </div>
+
+<br>
 
 ### 04. DevOps e Ferramentas
 *Desenvolvimento, colaboração e deploy*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,linux,vscode" />
 </div>
+
+---
+
+## 🏆 Estatísticas
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gidelmarjr-art&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
+</div>
+
+<br>
