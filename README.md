@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Olá,%20Bem-vindo(a)&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="Banner.png" width="100%" />
 </p>
 
 💻 **Sou o Gidelmar Junior, um Desenvolvedor Full Stack**
