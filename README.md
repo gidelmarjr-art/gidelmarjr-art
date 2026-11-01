@@ -21,7 +21,7 @@
 
 ## 🎯 Objetivo Profissional
 
-> Atuar como Desenvolvedor Full Stack Júnior ou Engenheiro de Software, contribuindo com soluções inovadoras e de alto impacto.
+> Consolidar minha carreira atuando no desenvolvimento de software de alta performance, unindo uma base sólida em engenharia full-stack com a minha especialização contínua em Cibersegurança e AppSec, para projetar sistemas seguros desde a concepção.
 
 ---
 
@@ -37,15 +37,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gidelmar-junior/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="48" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5" alt="LinkedIn" height="35" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:seu-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="E-mail" width="48" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5" alt="E-mail" height="35" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/gidelmarjr-art" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="GitHub" height="35" />
   </a>
 </div>
 
@@ -57,7 +57,14 @@
 *Linguagens, frameworks e bibliotecas de interface*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite&theme=dark" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" height="32" />
 </div>
 
 <br>
@@ -66,7 +73,10 @@
 *Ambientes de execução, frameworks e arquitetura de APIs*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java&theme=dark" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="32" />
 </div>
 
 <br>
@@ -75,7 +85,11 @@
 *SGBDs e ORMs*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase&theme=dark" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" height="32" />
 </div>
 
 <br>
@@ -84,7 +98,26 @@
 *Desenvolvimento, colaboração e deploy*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,linux,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32" />
+</div>
+
+<br>
+
+### 05. Cibersegurança e Redes
+*Análise de vulnerabilidades, testes e segurança defensiva*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" height="32" />
 </div>
 
 ---
