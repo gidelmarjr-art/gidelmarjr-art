@@ -24,15 +24,7 @@
 > Consolidar minha carreira atuando no desenvolvimento de software de alta performance, unindo uma base sólida em engenharia full-stack com a minha especialização contínua em Cibersegurança e AppSec, para projetar sistemas seguros desde a concepção.
 
 ---
-
-## 💼 Projetos
-
-- **[Financeday](https://financeday.vercel.app/)**: Painel de câmbio global em tempo real com leitura analítica por IA, desenvolvida com React e Node.js.
-- **[Yummy](https://yummy-one-phi.vercel.app/)**: Plataforma completa de gestão e operação para restaurantes, desenvolvida com React, Node.js, Python e PostgreSQL.
-- **[Minhas Financias](https://minhas-financias-navy.vercel.app/)**: Um sistema web completo e moderno de gestão financeira pessoal, projetado para o controle detalhado de despesas. Desenvolvida com React, Node.js, JavaScript e PostgreSQL.
-
----
-
+  
 ## 📱 Redes sociais e Contato
 
 <div align="center">
@@ -48,8 +40,6 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="GitHub" height="35" />
   </a>
 </div>
-
----
 
 ## 🛠️ Tecnologias e Habilidades
 
@@ -121,6 +111,20 @@
 </div>
 
 ---
+
+## 🏆 Projetos em Destaque
+
+- **[Financeday](https://financeday.vercel.app/)**: Painel de câmbio global em tempo real com leitura analítica por IA, desenvolvida com React e Node.js.
+  - 🛠️ **Tecnologias:** <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="22" />
+
+- **[Yummy](https://yummy-one-phi.vercel.app/)**: Plataforma completa de gestão e operação para restaurantes, desenvolvida com React, Node.js, Python e PostgreSQL.
+  - 🛠️ **Tecnologias:** <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="22" />
+
+- **[Minhas Financias](https://minhas-financias-navy.vercel.app/)**: Um sistema web completo e moderno de gestão financeira pessoal, projetado para o controle detalhado de despesas. Desenvolvida com React, Node.js, JavaScript e PostgreSQL.
+  - 🛠️ **Tecnologias:** <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="22" />
+
+- **[G.JR Portfólio](https://gidelmarjr.vercel.app)**: Aplicação web de apresentação pessoal e profissional focada em engenharia de software e segurança.
+  - 🛠️ **Tecnologias:** <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22" />
 
 ## 🏆 Estatísticas
 
