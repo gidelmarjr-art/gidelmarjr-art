@@ -29,17 +29,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gidelmar-junior/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5" alt="LinkedIn" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:seu-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5" alt="E-mail" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/gidelmarjr-art" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="GitHub" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
+
 
 ## 🛠️ Tecnologias e Habilidades
 
@@ -110,7 +111,6 @@
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" height="32" />
 </div>
 
----
 
 ## 🏆 Projetos em Destaque
 
@@ -126,12 +126,11 @@
 - **[G.JR Portfólio](https://gidelmarjr.vercel.app)**: Aplicação web de apresentação pessoal e profissional focada em engenharia de software e segurança.
   - 🛠️ **Tecnologias:** <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22" />
 
+
 ## 🏆 Estatísticas
 
 <br>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gidelmarjr-art&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&dates=888888" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gidelmarjr-art&theme=tokyonight&hide_border=true&background=0D1117&timezone=America/Sao_Paulo" width="70%" />
 </div>
-
 <br>
