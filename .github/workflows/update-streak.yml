@@ -2,16 +2,17 @@ name: Update Streak Stat Image
 
 on:
   schedule:
-    # Roda a cada 1 hora (ou ajuste a frequência)
     - cron: '0 * * * *'
-  workflow_dispatch: # Permite rodar manualmente se quiser
+  workflow_dispatch:
 
 jobs:
   update-card:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download updated streak card
         run: |
@@ -22,4 +23,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add streak.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update streak stats" && git push)
+          git commit -m "docs: update streak stats" || echo "No changes to commit"
+          git push
