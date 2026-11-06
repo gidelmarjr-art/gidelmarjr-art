@@ -130,7 +130,9 @@
 ## 🏆 Estatísticas
 
 <br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gidelmarjr-art&theme=tokyonight&hide_border=true&background=0D1117&timezone=America/Sao_Paulo" width="70%" />
+  <img src="./streak.svg" width="70%" alt="GitHub Streak" />
 </div>
+
 <br>
